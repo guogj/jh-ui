@@ -18,5 +18,6 @@
   },
   "scripts": {
     "test": "node ./__tests__/jh-ui.test.js"
-  }
+  },
+  "gitHead": "7b03b884fa9c9f50cb31fd547760168cbc4aa32d"
 }
